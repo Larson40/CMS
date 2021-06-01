@@ -1,0 +1,4 @@
+AuthUserFile /var/www/.LMconfig/.htpasswd
+AuthType Basic
+AuthName "Hidden Config Files"
+Require valid-user

@@ -1,0 +1,75 @@
+
+button {
+	background-color: #4CAF50;
+  border: outset;
+	border-color: green;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: green;
+	bordercolor: #4CAF50;
+}
+
+body {
+	background-color: black;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+Input {
+	background-color: lightgray;
+  border: inset;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+.green {background-color: green; font-size: 25px;}
+
+.yellow {background-color: yellow; color: black; font-size: 25px;}
+
+.orange {background-color: orange; color: blue; font-size: 25px;}
+
+.error {color: #FF0000;}
+
+.button {
+	background-color: #4CAF50;
+  border: outset;
+	border-color: green;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
+	bordercolor: #4CAF50;
+}
+
+.buttonB {
+	background-color: grey;
+  border: outset;
+	border-color: black;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.buttonB:hover {
+  background-color: black;
+	color: white;
+	border-color: grey;
+}
