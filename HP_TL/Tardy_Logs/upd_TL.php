@@ -22,7 +22,7 @@ else {
 
 $servername = "localhost";
 $username = "Hp_Tl";
-$password = "Rj@67oX1UlQF";
+$password = "Secret";
 $dbname = "HP_TL";
 
 // Create connection
