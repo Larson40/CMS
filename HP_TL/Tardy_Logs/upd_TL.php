@@ -21,7 +21,7 @@ else {
   $UpT = $Tpass + 1;
 
 $servername = "localhost";
-$username = "Hp_Tl";
+$username = "DB_user";
 $password = "Secret";
 $dbname = "HP_TL";
 

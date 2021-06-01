@@ -17,7 +17,7 @@ else {
 }
 
 $servername = "localhost";
-$username = "Hp_Tl";
+$username = "DB_user";
 $password = "Secret";
 $dbname = "HP_TL";
 
